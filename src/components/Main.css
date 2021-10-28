@@ -1,0 +1,15 @@
+.div-container{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    height: 6rem;
+    background-color: blue;
+    justify-content: center;
+}
+
+.input-field{
+    width: 80%;
+    max-width: 50rem;
+    height: 2rem;
+    padding-left: 1rem;
+}

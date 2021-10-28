@@ -1,0 +1,1 @@
+export const apiUrl = 'https://flipkart-page-api.vercel.app/';
